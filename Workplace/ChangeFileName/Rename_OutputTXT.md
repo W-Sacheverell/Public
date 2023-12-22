@@ -2,7 +2,7 @@
 import os
 
 # 指定文件夹路径
-folder_path = r"C:\Users\荒酱\AppData\Roaming\JetBrains\PyCharmCE2023.2\scratches\更改文件名称\新建文件夹"
+folder_path = r"C:\Users\Administrator\AppData\somethinglikethat\Foldername\"
 
 # 获取文件夹下的所有文件
 files = os.listdir(folder_path)
