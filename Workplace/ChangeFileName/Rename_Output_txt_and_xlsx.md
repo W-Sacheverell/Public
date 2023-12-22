@@ -6,7 +6,7 @@ import csv
 import pandas as pd
 
 # 指定文件夹路径
-folder_path = input('path: ') or r"C:\Users\荒酱\Documents\TF卡文件处理中站\第一次压缩"
+folder_path = input('path: ') or r"C:\Users\Administrator\AppData\somethinglikethat\Foldername\"
 
 # 获取文件夹下的所有文件
 files = os.listdir(folder_path)
