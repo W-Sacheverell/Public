@@ -12,10 +12,7 @@ def excel_to_markdown(excel_file_path, sheet_name):
 
     return markdown_output
 ```
-An example is as follows, to print the result directly  
-And the results were placed to following link:  
-[Output.md](https://github.com/W-Sacheverell/W-Akaso/blob/main/WaitForRecovery/Output.md) 
-
+An example is as follows, to print the result directly:  
 ```python
 # 你的 Excel 文件路径和表格名称
 excel_file_path = r"C:\Users\荒酱\OneDrive\文档\output - 副本 - 副本.xlsx"
