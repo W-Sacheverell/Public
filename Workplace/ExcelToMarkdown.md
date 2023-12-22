@@ -15,7 +15,7 @@ def excel_to_markdown(excel_file_path, sheet_name):
 An example is as follows, to print the result directly:  
 ```python
 # 你的 Excel 文件路径和表格名称
-excel_file_path = r"C:\Users\荒酱\OneDrive\文档\output - 副本 - 副本.xlsx"
+excel_file_path = r"C:\Users\filename.xlsx"
 sheet_names = ["1202", "1201", "1130"]  # 你的表格名称 例如为1202 1201 1130
 
 for sheet_name in sheet_names:
